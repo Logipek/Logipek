@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://discord.gg/jbkF3fQ6vE">Visit my personal Discord
+<a href="https://discord.com/users/797969299834011729">Visit my personal Discord
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
