@@ -33,6 +33,7 @@ to my personal GitHub profile!
 </div>
 
 <div align="center">
+  <p>Watched => </p>
 <p></p>
 <img src="https://profile-counter.glitch.me/logipek/count.svg" alt="hit counter" align="center">
 </div>
