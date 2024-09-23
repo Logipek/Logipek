@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21204
-Fork on GitHub6612
 <h1 align="center">Hi 👋, I'm Damion Hugo</h1>
 <h3 align="center">Apprentice Developer | Tech Enthusiast | Eager Learner |french developer</h3>
 
