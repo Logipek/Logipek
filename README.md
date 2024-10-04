@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://discord.com/users/797969299834011729">Visit my personal Discord
+<a href="https://bento.me/hugo-damion">Visit my personal portfolio
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
@@ -23,14 +23,21 @@ to my personal GitHub profile!
 <a href="https://github.com/Logipek?tab=repositories"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
 
-<div align="center">
-<p></p>
-<img src="https://profile-counter.glitch.me/logipek/count.svg" alt="hit counter" align="center">
-</div>
+<hr>
 
 <div align="center">
 <p>Have a good day!</p>
 <div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
 </div>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/logipek/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=Logipek" alt="stats" align="center">
 </div>
