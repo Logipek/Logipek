@@ -22,10 +22,11 @@ to my personal GitHub profile!
 <p>Write something nice in my guest book:</p>
 <a href="https://github.com/Logipek?tab=repositories"><img src="https://github.com/fnky/fnky/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
 </div>
-<hr>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Logipek" alt="stats" align="center">
-<hr>
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/logipek/count.svg" alt="hit counter" align="center">
+</div>
 
 <div align="center">
 <p>Have a good day!</p>
