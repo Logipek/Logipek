@@ -11,7 +11,7 @@ to my personal GitHub profile!
 </div>
 
 <h3 align="center">
-<a href="https://bento.me/hugo-damion">Visit my personal portfolio
+<a href="https://hugo-damion.fr/">Visit my personal portfolio
 <img src="https://github.com/fnky/fnky/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
